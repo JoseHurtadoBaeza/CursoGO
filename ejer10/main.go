@@ -1,8 +1,9 @@
+// POO EN GO
 package main
 
 import (
 	"fmt"
-	"time"
+	"time" // Para manejar tipos fecha
 
 	us "CursoGO/ejer10/user"
 )
@@ -16,7 +17,8 @@ import (
 
 // Herencia de la estructura usuario que podemos extender para dar polimorfismo
 type pepe struct {
-	us.Usuario // Esta es la manera de hacer herencia
+	// Esta es la manera de hacer herencia
+	us.Usuario // Esto es como un puntero a Usuario
 }
 
 func main() {
