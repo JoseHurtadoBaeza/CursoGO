@@ -1,4 +1,5 @@
 // MAPAS EN GO
+
 package main
 
 import "fmt"

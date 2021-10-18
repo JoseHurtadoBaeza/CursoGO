@@ -1,3 +1,5 @@
+// VARIABLES EN GO
+
 package main
 
 import (

@@ -1,4 +1,5 @@
-// ARREGLOS ESTÁTICOS Y SLICES
+// ARRAYS ESTÁTICOS Y SLICES
+
 package main
 
 import "fmt"

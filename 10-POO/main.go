@@ -1,11 +1,12 @@
 // POO EN GO
+
 package main
 
 import (
 	"fmt"
 	"time" // Para manejar tipos fecha
 
-	us "CursoGO/ejer10/user"
+	us "CursoGO/10-POO/user"
 )
 
 /*type usuario struct {

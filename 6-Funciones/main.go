@@ -1,3 +1,5 @@
+// FUNCIONES EN GO
+
 package main
 
 import "fmt"

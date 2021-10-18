@@ -1,3 +1,5 @@
+// CONDICIONALES EN GO
+
 package main
 
 import "fmt"

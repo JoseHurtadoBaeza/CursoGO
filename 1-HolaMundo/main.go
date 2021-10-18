@@ -1,3 +1,5 @@
+// HOLA MUNDO
+
 package main
 
 import "fmt"
